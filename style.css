@@ -20,19 +20,7 @@ body {
   background-color: #2c2c4a;
   color: white;
 }
-#name {
-  height: 30px;
-}
-#email {
-  height: 30px;
-}
-#number {
-  height: 30px;
-}
-#dropdown {
-  height: 30px;
-}
-#dropdown2 {
+#name, #email, #number, #dropdown, #dropdown2 {
   height: 30px;
 }
 

@@ -44,3 +44,22 @@ body {
   border: none;
   color: white;
 }
+
+
+@media screen and (max-width: 425px) {
+    #dropdown, #dropdown2 {
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    #dropdown, #dropdown2 {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    #dropdown, #dropdown2 {
+        width: 250px;
+    }
+}

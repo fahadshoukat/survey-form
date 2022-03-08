@@ -1,0 +1,15 @@
+body {
+  background-color: #59518f;
+}
+#container {
+  align-items: center;
+  display: flexbox;
+  justify-content: center;
+}
+#heading {
+  text-align: center;
+  color: white;
+}
+#description {
+  font-style: italic;
+}
